@@ -1,0 +1,27 @@
+Applicant:
+  access:
+    site:
+      login: false
+    admin:
+      login: false
+      super: false
+      cache: false
+      configuration: false
+      pages: false
+      maintenance: false
+      statistics: false
+      plugins: false
+      themes: false
+      tools: false
+      users: false
+      flex-objects: false
+  readableName: 'new applicant'
+  enabled: true
+accepted:
+  access:
+    site:
+      login: true
+    admin:
+      login: true
+  readableName: Accepted
+  enabled: true

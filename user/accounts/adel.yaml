@@ -1,0 +1,15 @@
+state: enabled
+email: a@a.a
+fullname: 'adeli c'
+level: Applicant
+hashed_password: $2y$10$idW6zqKtQ8BYe3wD.uLyceZewXqxAGiesVFeI9QgQ6dz.pcDMZA.C
+language: en
+content_editor: default
+twofa_enabled: false
+twofa_secret: J3TDKX3RJSMJXSNFP34VDPZHXFBMNLBE
+groups:
+  - Applicant
+avatar: {  }
+access:
+  site:
+    login: true

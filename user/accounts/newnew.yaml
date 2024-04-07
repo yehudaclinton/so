@@ -1,0 +1,9 @@
+state: enabled
+email: new@new.new
+gender: boy
+location: ariel
+level: Applicant
+access:
+  site:
+    login: true
+hashed_password: $2y$10$ntEOEBnPRUIz1a38A7HK0.Bi2i0yux4jdkFCMaGwO1Nd8azQhphTS

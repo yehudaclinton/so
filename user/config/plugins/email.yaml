@@ -1,0 +1,20 @@
+enabled: true
+from: admin@realclearjudaism.com
+to: yehudaclinton@gmail.com
+mailer:
+  engine: smtp
+  smtp:
+    server: smtp.zoho.com
+    port: 587
+    encryption: starttls
+    user: admin@realclearjudaism.com
+    password: **seeme**
+  debug: true
+  sendmail:
+    bin: '/usr/sbin/sendmail -bs'
+content_type: text/html
+debug: false
+cc: null
+bcc: null
+reply_to: null
+body: null

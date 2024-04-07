@@ -1,0 +1,24 @@
+version: '1.2'
+timestamp: 1712127719
+count: 4
+index:
+  adel:
+    storage_key: adel
+    storage_timestamp: 1711398165
+    key: adel
+    email: a@a.a
+  admin:
+    storage_key: admin
+    storage_timestamp: 1711103124
+    key: admin
+    email: yehudaclinton@gmail.com
+  new:
+    storage_key: new
+    storage_timestamp: 1711618670
+    key: new
+    email: b@j.a
+  newnew:
+    storage_key: newnew
+    storage_timestamp: 1712127599
+    key: newnew
+    email: new@new.new

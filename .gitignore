@@ -16,6 +16,5 @@ logs/
 now.json
 README.md
 tmp/
-user/
 vendor/
 webserver-configs/

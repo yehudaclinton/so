@@ -1,0 +1,11 @@
+state: enabled
+email: yehudaclinton@gmail.com
+fullname: admin
+title: Administrator
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$qfr.jabi2c6Uleeh7b5Flup6FLJXmdN5caGhBK94hg/5yNo03J/Ra

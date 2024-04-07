@@ -1,0 +1,10 @@
+state: enabled
+email: b@j.a
+gender: boy
+location: ariel
+level: Applicant
+access:
+    site: { login: true }
+hashed_password: $2y$10$3SvHJzLb6Yli/1bhlOY.ze8IZrlUgYCzMiMt.FibVtZ.z4nlDEOku
+groups:
+    - accepted
