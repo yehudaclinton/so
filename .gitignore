@@ -1,0 +1,21 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+assets/
+backup/
+bin/
+cache/
+CHANGELOG.md
+CODE_OF_CONDUCT.md
+composer.lock
+CONTRIBUTING.md
+images/
+LICENSE.txt
+logs/
+now.json
+README.md
+tmp/
+user/
+vendor/
+webserver-configs/
