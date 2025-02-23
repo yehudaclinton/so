@@ -30,6 +30,10 @@ plugins/flex-objects/admin/templates/flex-objects/types/default/list.html.twig
 
 the if doesnt yet work
 
+## user group page permissions
+plugins/login/login.yaml
+dynamic_page_visibility: true
+
 ## to change user edit profile page
 plugins/login/pages/profile.md
 
